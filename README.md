@@ -1,4 +1,4 @@
-# Bem-vindo ao meu perfil!
+# Bem-vindo ao meu perfil! 👋
 
 ## Sobre mim
 Olá! Eu sou Vitor Leonardo, graduando em Análise e Desenvolvimento de Sistemas, e estou em busca de oportunidades na área de Data Analytics.
@@ -12,7 +12,7 @@ Olá! Eu sou Vitor Leonardo, graduando em Análise e Desenvolvimento de Sistemas
 - **Graduação em Análise e Desenvolvimento de Sistemas**
   Uninassau, 2026
 
-## Contato
+## Contato 📫
 - LinkedIn: https://www.linkedin.com/in/vitorleonardocl/
 - Email: vitorleonardocl@gmail.com
 
