@@ -1,16 +1,19 @@
-### Hi there 👋
+# Bem-vindo ao meu perfil!
 
-<!--
-**vitorleocl/vitorleocl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mim
+Olá! Eu sou Vitor Leonardo, graduando em Análise e Desenvolvimento de Sistemas, e estou em busca de oportunidades na área de Data Analytics.
 
-Here are some ideas to get you started:
+## Habilidades
+- Linguagens de Programação: Python, PHP
+- Bancos de Dados: SQL
+- Outras: Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Educação
+- **Graduação em Análise e Desenvolvimento de Sistemas**
+  Uninassau, 2026
+
+## Contato
+- LinkedIn: https://www.linkedin.com/in/vitorleonardocl/
+- Email: vitorleonardocl@gmail.com
+
+Fique à vontade para explorar meus projetos e entre em contato para colaborações ou oportunidades interessantes!
